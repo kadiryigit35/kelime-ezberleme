@@ -1,0 +1,29 @@
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiris.csproj.AssemblyReference.cache
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.Properties.Resources.resources
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiris.csproj.GenerateResource.cache
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiris.csproj.CoreCompileInputs.cache
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.exe
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.pdb
+D:\proje\kullanicigiriş\kullanicigiriş\bin\Debug\kullanicigiriş.exe.config
+D:\proje\kullanicigiriş\kullanicigiriş\bin\Debug\kullanicigiriş.exe
+D:\proje\kullanicigiriş\kullanicigiriş\bin\Debug\kullanicigiriş.pdb
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.sUnuttum.resources
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.kullaniciArayuz.resources
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.soruEkleme.resources
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiris.kullaniciGiris.resources
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\bin\Debug\kullanicigiriş.exe.config
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\bin\Debug\kullanicigiriş.exe
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\bin\Debug\kullanicigiriş.pdb
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiris.csproj.AssemblyReference.cache
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiriş.soruEkleme.resources
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiriş.kullaniciArayuz.resources
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiris.kullaniciGiris.resources
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiriş.Properties.Resources.resources
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiriş.sUnuttum.resources
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiris.csproj.GenerateResource.cache
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiris.csproj.CoreCompileInputs.cache
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiriş.exe
+D:\yedekler\yedek 11.05.2024\kullanicigiriş\obj\Debug\kullanicigiriş.pdb
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.adminArayuz.resources
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.kullaniciBilgisi.resources
+D:\proje\kullanicigiriş\kullanicigiriş\obj\Debug\kullanicigiriş.sinav.resources
